@@ -1,12 +1,15 @@
 /*
  * Nicholas Stackis
  * class id: 211
- * Assignment 1
+ * Assignment 2
  * Description: 
  * This file contains an assortment of methods that have to do with the array list[]
  * The methods in order are a constructor, a method that adds a value to an array, a method the removes
  * a vale from an array, a method the counts the non-zero values in the array, a method that
  * returns a string of the array, and a method that returns the index of a value in the array.
+ * There is a method that appends a value to the end of the array, a method that returns the first value of the 
+ * array. a method that returns that last value of the array and a method that returns the size of the array
+ * There is also logic that increases or decreases the list size based on existing entries
  */
  
 package assign2;
